@@ -7,6 +7,8 @@
 
 ## Tools
 
+- [Vibecheck](https://www.vibecheck.it.com/) - Security scanner for apps built with AI coding assistants, helping developers identify vulnerabilities, exposed secrets, access-control issues, and insecure configurations before deployment.
+
 ## Research Papers on Security in AI Development
 
 - **[Security and Privacy for Artificial Intelligence: Opportunities and Challenges](https://arxiv.org/pdf/2102.04661v1.pdf)**: Addresses adversarial attacks and data privacy concerns; proposes frameworks for securing AI systems and offers practical recommendations for future research.
